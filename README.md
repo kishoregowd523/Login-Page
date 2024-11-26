@@ -6,7 +6,7 @@ This is a simple login page designed to authenticate users by checking their ent
 - **Username Field**: A text input field where the user must enter their username.
 - **Password Field**: A password input field where the user must enter their password. The text is masked for privacy.
 - **Login Button**: A button that, when clicked, triggers the form submission for authentication.
-- **Error Message**: A red-colored message displayed when the entered credentials are incorrect. It notifies the user that the login attempt has failed.
+- **Error Message**: A red-colored message displayed when the entered credentials are incorrect. It nofify that  the login attempt has failed.
 
 ## 2. Front-End (HTML, CSS, JavaScript):
 - The page is built using **HTML** for the structure, **CSS** for styling, and **JavaScript** for form validation and submission handling.
